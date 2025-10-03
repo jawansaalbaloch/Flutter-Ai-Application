@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Maps Explorer",
+  "description": "An interactive map explorer application powered by the Gemini API. Enter any location in the world to generate a stunning image, a detailed description, and interesting facts about it.",
+  "requestFramePermissions": []
+}
